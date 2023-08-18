@@ -1,0 +1,86 @@
+.topnav 
+{
+    background-color: #81d5d3d8;
+    overflow: hidden;
+}
+
+.right 
+{
+    float: right;
+  }
+
+.topnav a
+{
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.DLMP
+{
+    float: left;
+}
+
+.right:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .headerimage
+{
+    max-width: 100%;
+    text-align: center;
+    position: relative;
+}
+.container
+{
+  text-align: center;
+}
+
+.Responsive
+{
+    max-width: 100%;
+    align-content: center;
+}
+table {
+  table-layout: fixed ;
+  width: 100% ;
+}
+td {
+  width: 25% ;
+}
+
+.button
+{
+  text-align: center;
+}
+.center
+{
+  text-align: center;
+}
+
+.parent {
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.child {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
+footer
+{
+  display: inline-block;
+  border: 1px solid black;
+  padding: 2rem 2rem;
+}
